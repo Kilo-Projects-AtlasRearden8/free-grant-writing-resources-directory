@@ -1,0 +1,211 @@
+[
+  {
+    "id": "grants-gov",
+    "title": "Grants.gov",
+    "description": "The official U.S. federal grant database. Search, find, and apply for federal grant opportunities across all federal agencies.",
+    "url": "https://www.grants.gov",
+    "cause": "General",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "sam-gov",
+    "title": "SAM.gov",
+    "description": "Official U.S. government system for entity registration. Required registration to apply for federal grants and manage federal awards.",
+    "url": "https://sam.gov",
+    "cause": "General",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "usaspending-gov",
+    "title": "USAspending.gov",
+    "description": "Official source for federal spending data. Search grant awards to see which agencies and organizations receive funding.",
+    "url": "https://www.usaspending.gov",
+    "cause": "General",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "candid",
+    "title": "Candid (Foundation Directory Online)",
+    "description": "Free funder profiles and the free edition of Foundation Directory Online to research private and corporate foundations.",
+    "url": "https://candid.org",
+    "cause": "General",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "grantwatch",
+    "title": "GrantWatch",
+    "description": "Searchable database of currently available grants from government, foundation, and corporate funders.",
+    "url": "https://www.grantwatch.com",
+    "cause": "General",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "grantstation",
+    "title": "GrantStation",
+    "description": "Grant database and funder research tools for nonprofit organizations seeking funding.",
+    "url": "https://www.grantstation.com",
+    "cause": "General",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "grants-gov-learning-center",
+    "title": "Grants.gov Learning Center",
+    "description": "Official guidance on finding, applying for, and managing federal grants, including applicant training and videos.",
+    "url": "https://www.grants.gov",
+    "cause": "General",
+    "category": "Writing guide",
+    "type": "writing_guide",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "ed-gov-grants",
+    "title": "U.S. Department of Education Grants",
+    "description": "Federal education grants and funding opportunities from the U.S. Department of Education.",
+    "url": "https://www.ed.gov/grants",
+    "cause": "Education",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "imls",
+    "title": "Institute of Museum and Library Services (IMLS)",
+    "description": "Federal grants for libraries and museums to support education, access, and community services.",
+    "url": "https://www.imls.gov",
+    "cause": "Education",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "nea",
+    "title": "National Endowment for the Arts (NEA)",
+    "description": "Federal grants supporting arts projects, arts education, and cultural organizations nationwide.",
+    "url": "https://www.arts.gov",
+    "cause": "Arts & Culture",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "neh",
+    "title": "National Endowment for the Humanities (NEH)",
+    "description": "Federal grants supporting humanities research, education, preservation, and public programs.",
+    "url": "https://www.neh.gov",
+    "cause": "Arts & Culture",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "epa-grants",
+    "title": "U.S. EPA Grants",
+    "description": "Environmental Protection Agency grant opportunities and application guidance for environmental and public health projects.",
+    "url": "https://www.epa.gov/grants",
+    "cause": "Environment & Conservation",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "americorps",
+    "title": "AmeriCorps Grants",
+    "description": "Federal grants and funding opportunities supporting national service, volunteering, and community programs.",
+    "url": "https://americorps.gov/grants",
+    "cause": "Community & Human Services",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "hhs-grants",
+    "title": "U.S. Department of Health & Human Services (HHS) Grants",
+    "description": "Official HHS grant policies, guidance, and resources for health and human services funding.",
+    "url": "https://www.hhs.gov/grants",
+    "cause": "Health & Healthcare",
+    "category": "Writing guide",
+    "type": "writing_guide",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "nih-grants",
+    "title": "National Institutes of Health (NIH) Grants",
+    "description": "NIH funding opportunities, application instructions, and grant writing guidance for health research.",
+    "url": "https://grants.nih.gov",
+    "cause": "Health & Healthcare",
+    "category": "Funder database",
+    "type": "funder_database",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "nih-guide",
+    "title": "NIH Guide for Grants and Contracts",
+    "description": "The official NIH guide to funding opportunities, application procedures, and grant writing guidance.",
+    "url": "https://grants.nih.gov",
+    "cause": "Science & Research",
+    "category": "Writing guide",
+    "type": "writing_guide",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "sba",
+    "title": "U.S. Small Business Administration (SBA)",
+    "description": "SBA guidance on small business grants, funding programs, and grant writing basics for small businesses.",
+    "url": "https://www.sba.gov",
+    "cause": "Small Business",
+    "category": "Writing guide",
+    "type": "writing_guide",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "score",
+    "title": "SCORE",
+    "description": "Free business plan, proposal, and financial templates from SCORE, a nonprofit resource partner of the SBA.",
+    "url": "https://www.score.org",
+    "cause": "Small Business",
+    "category": "Proposal template",
+    "type": "proposal_template",
+    "cost": "Free",
+    "source_type": "Official"
+  },
+  {
+    "id": "sba-budget",
+    "title": "SBA Budget Templates",
+    "description": "Free small business budget worksheets and financial planning templates from the U.S. Small Business Administration.",
+    "url": "https://www.sba.gov",
+    "cause": "Small Business",
+    "category": "Budget worksheet",
+    "type": "budget_worksheet",
+    "cost": "Free",
+    "source_type": "Official"
+  }
+]

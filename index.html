@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Free Grant-Writing Resources Directory | Asdale Dynamics, LLC</title>
+  <meta name="description" content="A free directory of grant-writing resources: funder databases, proposal templates, budget worksheets, and writing guides. Grouped by cause, official links only, education only." />
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-inner">
+        <div class="site-title">
+          <a href="#">Asdale Dynamics, LLC</a>
+        </div>
+        <div class="site-tagline">
+          Free grant-writing resources for educators, nonprofits, and small businesses.
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="intro container">
+    <p>
+      A free, beginner-friendly directory of grant-writing resources. Funders,
+      templates, worksheets, and guides — official links only, education only.
+      Grouped by cause with client-side search. Nothing here is medical, legal,
+      or financial advice.
+    </p>
+  </div>
+
+  <div class="search-bar">
+    <div class="container">
+      <div class="search-wrapper">
+        <label for="search-input">Search resources</label>
+        <input
+          id="search-input"
+          type="search"
+          placeholder="Search by title, cause, or type…"
+          aria-label="Search resources"
+        />
+        <button id="search-clear" class="search-clear" aria-label="Clear search">&times;</button>
+      </div>
+      <p class="search-hint">
+        Type to filter by title, cause, or resource type. Click a cause or type
+        chip to narrow results.
+      </p>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="filters" aria-label="Filter by resource type">
+      <span class="sr-only">Filter by type</span>
+      <div id="filter-chips"></div>
+    </div>
+
+    <div class="cause-tabs" role="tablist" aria-label="Filter by cause">
+      <div id="cause-tabs"></div>
+    </div>
+
+    <div id="results-container" aria-live="polite"></div>
+
+    <div id="no-results" class="no-results hidden">
+      <div class="empty-state">
+        <h2>No matching resources</h2>
+        <p>Try a different search term or clear your filters.</p>
+      </div>
+    </div>
+
+    <p class="search-hint" style="margin-top:1rem;text-align:center;">
+      <span id="results-count">0</span> resources found.
+    </p>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="footer-inner">
+        <div class="footer-credit">
+          &copy; 2026 Asdale Dynamics, LLC. Built for education.
+        </div>
+        <a href="README.md">Project README</a>
+        &nbsp;|&nbsp;
+        <a href="resources.md">Resource directory (Markdown)</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
